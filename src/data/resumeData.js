@@ -85,14 +85,14 @@ export const resumeData = {
             company: "Webzexperts",
             duration: "Feb 2020 to Jun 2021 - Remote",
             points: [
-                "Developed multiple Projects from scratch using the Laravel framework, all projects were mostly CMS.",
-                "Worked on creating API using Laravel framework and tested using Postman tool for Mobile App."
+                "Developed multiple Projects from scratch using the Laravel framework, all projects were mostly <span class=\"text-red-600 font-semibold\">CMS</span>.",
+                "Worked on creating API using Laravel framework and tested using <span class=\"text-red-600 font-semibold\">Postman</span> tool for Mobile App."
             ]
         }
     ],
     additionalInfo: [
         "Debugging Tool Chrome Inspector, Firefox Firebug.",
-        "IDE's and Developer Tools: Sublime Text, Visual Studio (VS).",
+        "IDE's and Developer Tools: Antigravity, Visual Studio (VS).",
         "Good knowledge of Postman tool for testing API."
     ],
     strengths: [
